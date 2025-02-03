@@ -1,4 +1,4 @@
-youtuber =" arun"
+youtuber ="Arun Singh"
 print(f"subscribe to {youtuber}")
 
 adj = input("Adjective: ")
